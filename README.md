@@ -38,7 +38,7 @@ In the Label Editor window, I clicked the "Import" button and selected the outpu
 
 ![image](https://github.com/user-attachments/assets/fb2cade9-4fbb-4c78-a21f-b164e44c2fa4)
 
-I deleted the first label since it wasn't needed and hit "OK". I then deleted the default label track since it was empty and I just created a new one.
+I deleted the first label since it wasn't needed (click to highlight the first label and hit "Delete") before clicking "OK". I then deleted the default label track since it was empty and I just created a new one.
 
 ![image](https://github.com/user-attachments/assets/68952da3-40d6-4d4b-9b8f-b4a669a74b59)
 
