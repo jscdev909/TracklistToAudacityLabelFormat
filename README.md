@@ -10,7 +10,7 @@ Audacity provides a means to cut an audio track into segments using its label fe
 ## About
 This script aims to convert a typical tracklist you would find with DJ sets and mixed albums into a text file that Audacity can use to place labels to divide up the recording.
 
-The script currently takes one runtime argument, which is the path to a file with a valid tracklist. For a tracklist to be considered valid by the program, each track should be listed on a separate line in the file and adhere to the following format: "H:MM:SS <song-name> - <artist>".
+The script currently takes one runtime argument, which is the path to a file with a valid tracklist. For a tracklist to be considered valid by the program, each track should be listed on a separate line in the file and adhere to the following format: "H:MM:SS song-name - artist".
 
 A sample tracklist, sample_track_list.txt, has been provided in the repository for reference as an example of a valid tracklist. Please copy this same format when making your own tracklist to provide to this program.
 
